@@ -51,7 +51,7 @@ RAG-PDF-Summarizer/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/rag-pdf-summarizer.git
+git clone https://github.com/Shashank7275/RAG-Project
 cd rag-pdf-summarizer
 ```
 
