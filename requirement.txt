@@ -1,0 +1,51 @@
+# Core LangChain
+langchain
+langchain-core
+langchain-community
+langchain-huggingface
+
+# LLM provider 
+
+langchain-google-genai
+google-generativeai
+langchain-openai
+langchain-mistralai
+openai
+mistralai
+
+# Vector DB (optional but useful)
+chromadb
+
+# Environment variables
+python-dotenv
+
+# Embedding models
+
+sentence-transformers
+
+# Document loader dependices
+
+pypdf
+unstructured
+beautifulsoup4
+lxml
+
+#Text Preprocessing
+tiktoken
+
+#Data Handling
+pandas 
+numpy
+
+#API
+
+fastapi
+uvicorn
+
+# UI (optional)
+streamlit
+
+#Utilities
+
+tqdm
+requests
