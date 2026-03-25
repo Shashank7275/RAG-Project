@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: github-dashboard
+    name: RAG 
     env: python
     buildCommand: pip install -r requirement.txt
     stsrtCommand: streamlit run app.py --server.port $PORT --server.headless true
