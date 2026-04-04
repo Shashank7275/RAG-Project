@@ -1,5 +1,5 @@
 from dotenv import load_dotenv
-from langchain_huggingface import HuggingFaceEmbedding
+from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_community.vectorstores import Chroma
 from langchain_mistralai import ChatMistralAI
 from langchain_core.prompts import ChatPromptTemplate
