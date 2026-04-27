@@ -1,5 +1,5 @@
 import streamlit as st
-import osss
+import os
 from dotenv import load_doten
 
 # LangChain imports
