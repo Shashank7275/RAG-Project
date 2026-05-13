@@ -1,4 +1,4 @@
-import streamlit as sttt
+import streamlit as stt
 import os
 from dotenv import load_doten
 
