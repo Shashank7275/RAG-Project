@@ -1,5 +1,5 @@
 import streamlit as st
-import os
+import o
 
 
 from dotenv import load_doten
